@@ -18,3 +18,7 @@ Identity cues appear ubiquitously alongside content in social media today. Some 
 - The `scripts` directory contains library code that's used routinely.
 
 If you have any questions feel free to [submit an issue](https://github.com/seanjtaylor/identify_effects_in_social_media/issues/new) and I'll try to help.
+
+## Data
+
+We may make an anonymized version of supporting data available upon request to researchers who complete [this form](https://forms.gle/fgCUrDc1Bjdpp27B9).
